@@ -3,3 +3,4 @@ def par(numero: int) -> bool:
     De lo contrario, retorna False."""
     if numero%2 == 0:
         return True
+    return  False
